@@ -1,5 +1,9 @@
-# Yandex_Projects
+# Аналитики данных - Yandex_Projects
 ## Data analysis projects
+
+
+## Описание проектов / Description of projects
+
 
 | Markdown              | Поддерживает           | Таблицы                     |
 | :-------------------- | ---------------------: |:---------------------------:|
