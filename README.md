@@ -1,6 +1,4 @@
-# Аналитики данных - Yandex_Projects
-## Data analysis projects
-
+# Аналитика данных - Yandex_Projects
 
 ## Описание проектов / Description of projects
 
